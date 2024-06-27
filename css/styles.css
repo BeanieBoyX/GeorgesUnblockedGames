@@ -1,0 +1,38 @@
+/* General Website Style rules */
+body {
+  font-family: "Helvetica", Sans-Serif;
+  background-image: url("https://i.gifer.com/76YS.gif");
+
+}
+
+.game-btn {
+  font-family: 'Share Tech', sans-serif;
+  font-size: 2em;
+  margin: 20px;
+  
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  color: #ffffff;
+  font-size: 20px;
+  background-color: #00062d;
+  padding: 10px 20px 10px 20px;
+  border: solid #2F2F2F 2px;
+  text-decoration: none;
+  
+}
+
+.game-btn:hover {
+  background-color: #00062d;
+  text-decoration: none;
+  border: solid #2F2F2F 4px;
+}
+
+.game-btn:focus {
+  outline:0;
+}
+
+#narrative-three-btns {
+  display: flex;
+  flex-flow: row;
+}

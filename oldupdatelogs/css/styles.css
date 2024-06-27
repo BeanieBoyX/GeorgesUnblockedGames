@@ -1,0 +1,37 @@
+/* General Website Style rules */
+body {
+  font-family: "Helvetica", Sans-Serif;
+  background-image: url("https://playableconcepts.aalto.fi/wp-content/uploads/2020/05/tiling_wall.png");
+
+}
+
+.game-btn {
+  font-family: 'Share Tech', sans-serif;
+  font-size: 2em;
+  margin: 20px;
+  
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  color: #ffffff;
+  font-size: 20px;
+  background-color: #d35400;
+  padding: 10px 20px 10px 20px;
+  border: solid #F89406 2px;
+  text-decoration: none;
+  
+}
+
+.game-btn:hover {
+  background-color: #e67e22;
+  text-decoration: none;
+}
+
+.game-btn:focus {
+  outline:0;
+}
+
+#narrative-three-btns {
+  display: flex;
+  flex-flow: row;
+}

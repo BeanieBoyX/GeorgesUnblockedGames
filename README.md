@@ -2,7 +2,8 @@
 
 # How to use?
 
-First, download the file from the releases tab.
+First, download the Source code (zip) file from the releases tab.
+Unzip (extract) the file
 Open the file and launch "GeorgesUnblockedGames.html" and that will have all the games.
 
 # Common Errors:
